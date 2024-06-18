@@ -1,11 +1,3 @@
-//============================================================================
-//                  Algorytmy i Struktury Danych
-// Zadanie 4.1
-// Odwrotna Notacja Polska
-//
-//  WCY21IX4S0  Miksiewicz Pawel
-//============================================================================
-
 #include <stdio.h>
 #include <iostream>
 #include <stdlib.h>
