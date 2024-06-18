@@ -1,9 +1,8 @@
 //============================================================================
 //                  Algorytmy i Struktury Danych
 // Zadanie 4.2
-// Dodawanie duøych liczb przy wykorzystaniu struktury stosu w postaci wskaünikowej
+// Dodawanie du≈ºych liczb przy wykorzystaniu struktury stosu w postaci wska≈∫nikowej
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <stdio.h>
